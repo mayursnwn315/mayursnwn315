@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src=""C:\Users\Mayur Sonawane\Desktop\1728725272824.jpg"" width="500" alt="Coding Animation"/>"C:\Users\Mayur Sonawane\Desktop\1728725272824.jpg"
+  <img src="https://github.com/mayursnwn315/Banner.git" width="500" alt="Coding Animation"/>"C:\Users\Mayur Sonawane\Desktop\1728725272824.jpg"
 </p>
 
 <!-- Typing Animation -->
