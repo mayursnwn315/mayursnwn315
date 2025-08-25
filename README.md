@@ -1,7 +1,9 @@
-<!-- Banner GIF -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/mayursnwn315/Banner.git" width="500" alt="Coding Animation"/>"C:\Users\Mayur Sonawane\Desktop\1728725272824.jpg"
+  <img src="https://raw.githubusercontent.com/mayursnwn315/Banner/main/1728725272824.jpg" width="1000" alt="Coding Banner"/>
 </p>
+
+
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Mayur+Sonawane;🚀+Big+Data+%26+Data+Engineering+Enthusiast;💡+Always+Learning+New+Technologies)](https://git.io/typing-svg)
